@@ -1,0 +1,11 @@
+# 画像データを除外
+data/
+*.nii.gz
+
+# 学習済みモデルを除外
+outputs/*.pth
+*.pth
+
+# その他重いファイル
+*.zip
+*.tar.gz
