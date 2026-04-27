@@ -2,7 +2,7 @@
 #SBATCH --job-name=spleen_train
 #SBATCH --output=train_%j.log
 #SBATCH --error=train_%j.err
-#SBATCH -p VM-GPU-L              # 1. 空きが確認されているパーティションへ変更
+#SBATCH -p GPU-1A              # 1. 空きが確認されているパーティションへ変更
 #SBATCH --gres=gpu:1             # (通らなければ gpu:a40g:1 も試してください)
 #SBATCH -n 1                     # 2. 実績コードに合わせフラグ形式を統一
 #SBATCH -c 2                     # 3. CPUコア数を明示

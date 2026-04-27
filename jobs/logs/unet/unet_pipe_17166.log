@@ -1,0 +1,11 @@
+===================================
+ UNet Training Started
+===================================
+Error: /home/s2610100/m-thesis/data/Task09_Spleen/dataset.json が見つかりません。
+以下のコマンドで場所を確認してください: find /home/s2610100/m-thesis/data -name 'dataset.json'
+===================================
+ UNet Inference & Evaluation Started
+===================================
+===================================
+ Pipeline Finished Successfully
+===================================

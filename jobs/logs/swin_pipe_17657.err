@@ -1,0 +1,14 @@
+monai.transforms.spatial.dictionary Orientationd.__init__:labels: Current default value of argument `labels=(('L', 'R'), ('P', 'A'), ('I', 'S'))` was changed in version None from `labels=(('L', 'R'), ('P', 'A'), ('I', 'S'))` to `labels=None`. Default value changed to None meaning that the transform now uses the 'space' of a meta-tensor, if applicable, to determine appropriate axis labels.
+Traceback (most recent call last):
+  File "/home/s2610100/m-thesis/src/train_spleen_swin.py", line 31, in <module>
+    train_files = load_decathlon_datalist(datalist_json, True, "training")
+  File "/home/s2610100/miniconda3/envs/m-thesis/lib/python3.10/site-packages/monai/data/decathlon_datalist.py", line 154, in load_decathlon_datalist
+    raise ValueError(f"Data list file {data_list_file_path} does not exist.")
+ValueError: Data list file /home/s2610100/m-thesis/data/Task09_Spleen/dataset.json does not exist.
+monai.transforms.spatial.dictionary Orientationd.__init__:labels: Current default value of argument `labels=(('L', 'R'), ('P', 'A'), ('I', 'S'))` was changed in version None from `labels=(('L', 'R'), ('P', 'A'), ('I', 'S'))` to `labels=None`. Default value changed to None meaning that the transform now uses the 'space' of a meta-tensor, if applicable, to determine appropriate axis labels.
+Traceback (most recent call last):
+  File "/home/s2610100/m-thesis/src/inference_spleen_swin.py", line 29, in <module>
+    val_files = load_decathlon_datalist(datalist_json, True, "training")
+  File "/home/s2610100/miniconda3/envs/m-thesis/lib/python3.10/site-packages/monai/data/decathlon_datalist.py", line 154, in load_decathlon_datalist
+    raise ValueError(f"Data list file {data_list_file_path} does not exist.")
+ValueError: Data list file /home/s2610100/m-thesis/data/Task09_Spleen/dataset.json does not exist.

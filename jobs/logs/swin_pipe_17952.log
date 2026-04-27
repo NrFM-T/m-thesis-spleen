@@ -1,0 +1,240 @@
+===================================
+ SwinUNETR Training Started
+===================================
+Total files: 41
+Training files: 33
+Validation files: 8
+--- SwinUNETR 訓練開始 (Device: cuda) ---
+Epoch 1/300, Train Loss: 0.5836
+Epoch 2/300, Train Loss: 0.4986
+--- Validation Dice: 0.0991 ---
+>>> SAVED NEW BEST MODEL
+Epoch 3/300, Train Loss: 0.4538
+Epoch 4/300, Train Loss: 0.4524
+--- Validation Dice: 0.1492 ---
+>>> SAVED NEW BEST MODEL
+Epoch 5/300, Train Loss: 0.4133
+Epoch 6/300, Train Loss: 0.4101
+--- Validation Dice: 0.1047 ---
+>>> No improvement for 1 evaluation(s)
+Epoch 7/300, Train Loss: 0.4219
+Epoch 8/300, Train Loss: 0.3681
+--- Validation Dice: 0.1761 ---
+>>> SAVED NEW BEST MODEL
+Epoch 9/300, Train Loss: 0.3637
+Epoch 10/300, Train Loss: 0.3319
+--- Validation Dice: 0.1497 ---
+>>> No improvement for 1 evaluation(s)
+Epoch 11/300, Train Loss: 0.3346
+Epoch 12/300, Train Loss: 0.3340
+--- Validation Dice: 0.1947 ---
+>>> SAVED NEW BEST MODEL
+Epoch 13/300, Train Loss: 0.2920
+Epoch 14/300, Train Loss: 0.3121
+--- Validation Dice: 0.1795 ---
+>>> No improvement for 1 evaluation(s)
+Epoch 15/300, Train Loss: 0.3283
+Epoch 16/300, Train Loss: 0.2985
+--- Validation Dice: 0.2395 ---
+>>> SAVED NEW BEST MODEL
+Epoch 17/300, Train Loss: 0.3075
+Epoch 18/300, Train Loss: 0.3115
+--- Validation Dice: 0.1876 ---
+>>> No improvement for 1 evaluation(s)
+Epoch 19/300, Train Loss: 0.2778
+Epoch 20/300, Train Loss: 0.2967
+--- Validation Dice: 0.1740 ---
+>>> No improvement for 2 evaluation(s)
+Epoch 21/300, Train Loss: 0.2597
+Epoch 22/300, Train Loss: 0.2922
+--- Validation Dice: 0.2418 ---
+>>> SAVED NEW BEST MODEL
+Epoch 23/300, Train Loss: 0.2638
+Epoch 24/300, Train Loss: 0.2433
+--- Validation Dice: 0.2257 ---
+>>> No improvement for 1 evaluation(s)
+Epoch 25/300, Train Loss: 0.3020
+Epoch 26/300, Train Loss: 0.2385
+--- Validation Dice: 0.3047 ---
+>>> SAVED NEW BEST MODEL
+Epoch 27/300, Train Loss: 0.2760
+Epoch 28/300, Train Loss: 0.2844
+--- Validation Dice: 0.2209 ---
+>>> No improvement for 1 evaluation(s)
+Epoch 29/300, Train Loss: 0.2242
+Epoch 30/300, Train Loss: 0.2893
+--- Validation Dice: 0.4455 ---
+>>> SAVED NEW BEST MODEL
+Epoch 31/300, Train Loss: 0.2554
+Epoch 32/300, Train Loss: 0.2148
+--- Validation Dice: 0.6309 ---
+>>> SAVED NEW BEST MODEL
+Epoch 33/300, Train Loss: 0.2742
+Epoch 34/300, Train Loss: 0.3076
+--- Validation Dice: 0.6949 ---
+>>> SAVED NEW BEST MODEL
+Epoch 35/300, Train Loss: 0.2477
+Epoch 36/300, Train Loss: 0.2697
+--- Validation Dice: 0.5828 ---
+>>> No improvement for 1 evaluation(s)
+Epoch 37/300, Train Loss: 0.2332
+Epoch 38/300, Train Loss: 0.2480
+--- Validation Dice: 0.6233 ---
+>>> No improvement for 2 evaluation(s)
+Epoch 39/300, Train Loss: 0.2674
+Epoch 40/300, Train Loss: 0.2351
+--- Validation Dice: 0.7058 ---
+>>> SAVED NEW BEST MODEL
+Epoch 41/300, Train Loss: 0.2480
+Epoch 42/300, Train Loss: 0.2015
+--- Validation Dice: 0.7802 ---
+>>> SAVED NEW BEST MODEL
+Epoch 43/300, Train Loss: 0.2657
+Epoch 44/300, Train Loss: 0.2841
+--- Validation Dice: 0.4202 ---
+>>> No improvement for 1 evaluation(s)
+Epoch 45/300, Train Loss: 0.2300
+Epoch 46/300, Train Loss: 0.2478
+--- Validation Dice: 0.8458 ---
+>>> SAVED NEW BEST MODEL
+Epoch 47/300, Train Loss: 0.2109
+Epoch 48/300, Train Loss: 0.2039
+--- Validation Dice: 0.7252 ---
+>>> No improvement for 1 evaluation(s)
+Epoch 49/300, Train Loss: 0.2658
+Epoch 50/300, Train Loss: 0.2363
+--- Validation Dice: 0.4412 ---
+>>> No improvement for 2 evaluation(s)
+Epoch 51/300, Train Loss: 0.2741
+Epoch 52/300, Train Loss: 0.2030
+--- Validation Dice: 0.7334 ---
+>>> No improvement for 3 evaluation(s)
+Epoch 53/300, Train Loss: 0.2513
+Epoch 54/300, Train Loss: 0.2214
+--- Validation Dice: 0.8646 ---
+>>> SAVED NEW BEST MODEL
+Epoch 55/300, Train Loss: 0.1847
+Epoch 56/300, Train Loss: 0.1935
+--- Validation Dice: 0.8417 ---
+>>> No improvement for 1 evaluation(s)
+Epoch 57/300, Train Loss: 0.2396
+Epoch 58/300, Train Loss: 0.2220
+--- Validation Dice: 0.8536 ---
+>>> No improvement for 2 evaluation(s)
+Epoch 59/300, Train Loss: 0.2117
+Epoch 60/300, Train Loss: 0.2245
+--- Validation Dice: 0.8273 ---
+>>> No improvement for 3 evaluation(s)
+Epoch 61/300, Train Loss: 0.2398
+Epoch 62/300, Train Loss: 0.2493
+--- Validation Dice: 0.4723 ---
+>>> No improvement for 4 evaluation(s)
+Epoch 63/300, Train Loss: 0.2773
+Epoch 64/300, Train Loss: 0.2600
+--- Validation Dice: 0.7280 ---
+>>> No improvement for 5 evaluation(s)
+Epoch 65/300, Train Loss: 0.2537
+Epoch 66/300, Train Loss: 0.2786
+--- Validation Dice: 0.8560 ---
+>>> No improvement for 6 evaluation(s)
+Epoch 67/300, Train Loss: 0.2707
+Epoch 68/300, Train Loss: 0.2652
+--- Validation Dice: 0.8401 ---
+>>> No improvement for 7 evaluation(s)
+Epoch 69/300, Train Loss: 0.2017
+Epoch 70/300, Train Loss: 0.2126
+--- Validation Dice: 0.9016 ---
+>>> SAVED NEW BEST MODEL
+Epoch 71/300, Train Loss: 0.2673
+Epoch 72/300, Train Loss: 0.2334
+--- Validation Dice: 0.8845 ---
+>>> No improvement for 1 evaluation(s)
+Epoch 73/300, Train Loss: 0.2072
+Epoch 74/300, Train Loss: 0.2136
+--- Validation Dice: 0.8175 ---
+>>> No improvement for 2 evaluation(s)
+Epoch 75/300, Train Loss: 0.2154
+Epoch 76/300, Train Loss: 0.2145
+--- Validation Dice: 0.6318 ---
+>>> No improvement for 3 evaluation(s)
+Epoch 77/300, Train Loss: 0.2341
+Epoch 78/300, Train Loss: 0.2296
+--- Validation Dice: 0.7766 ---
+>>> No improvement for 4 evaluation(s)
+Epoch 79/300, Train Loss: 0.2323
+Epoch 80/300, Train Loss: 0.2512
+--- Validation Dice: 0.7875 ---
+>>> No improvement for 5 evaluation(s)
+Epoch 81/300, Train Loss: 0.1861
+Epoch 82/300, Train Loss: 0.2748
+--- Validation Dice: 0.8163 ---
+>>> No improvement for 6 evaluation(s)
+Epoch 83/300, Train Loss: 0.2046
+Epoch 84/300, Train Loss: 0.2481
+--- Validation Dice: 0.8372 ---
+>>> No improvement for 7 evaluation(s)
+Epoch 85/300, Train Loss: 0.2041
+Epoch 86/300, Train Loss: 0.2350
+--- Validation Dice: 0.8436 ---
+>>> No improvement for 8 evaluation(s)
+Epoch 87/300, Train Loss: 0.2226
+Epoch 88/300, Train Loss: 0.2463
+--- Validation Dice: 0.8526 ---
+>>> No improvement for 9 evaluation(s)
+Epoch 89/300, Train Loss: 0.2202
+Epoch 90/300, Train Loss: 0.2292
+--- Validation Dice: 0.8373 ---
+>>> No improvement for 10 evaluation(s)
+Epoch 91/300, Train Loss: 0.2839
+Epoch 92/300, Train Loss: 0.2540
+--- Validation Dice: 0.8369 ---
+>>> No improvement for 11 evaluation(s)
+Epoch 93/300, Train Loss: 0.2448
+Epoch 94/300, Train Loss: 0.2336
+--- Validation Dice: 0.8489 ---
+>>> No improvement for 12 evaluation(s)
+Epoch 95/300, Train Loss: 0.1884
+Epoch 96/300, Train Loss: 0.1644
+--- Validation Dice: 0.8459 ---
+>>> No improvement for 13 evaluation(s)
+Epoch 97/300, Train Loss: 0.2182
+Epoch 98/300, Train Loss: 0.2469
+--- Validation Dice: 0.8451 ---
+>>> No improvement for 14 evaluation(s)
+Epoch 99/300, Train Loss: 0.1997
+Epoch 100/300, Train Loss: 0.2062
+--- Validation Dice: 0.8444 ---
+>>> No improvement for 15 evaluation(s)
+Epoch 101/300, Train Loss: 0.1960
+Epoch 102/300, Train Loss: 0.2507
+--- Validation Dice: 0.8444 ---
+>>> No improvement for 16 evaluation(s)
+Epoch 103/300, Train Loss: 0.2317
+Epoch 104/300, Train Loss: 0.1753
+--- Validation Dice: 0.8437 ---
+>>> No improvement for 17 evaluation(s)
+Epoch 105/300, Train Loss: 0.2158
+Epoch 106/300, Train Loss: 0.2667
+--- Validation Dice: 0.8415 ---
+>>> No improvement for 18 evaluation(s)
+Epoch 107/300, Train Loss: 0.2570
+Epoch 108/300, Train Loss: 0.2746
+--- Validation Dice: 0.8451 ---
+>>> No improvement for 19 evaluation(s)
+Epoch 109/300, Train Loss: 0.1997
+Epoch 110/300, Train Loss: 0.2300
+--- Validation Dice: 0.8488 ---
+>>> No improvement for 20 evaluation(s)
+Early stopping triggered. Best metric: 0.9016 at epoch 70
+訓練完了! Best Dice: 0.9016 at Epoch: 70
+===================================
+ SwinUNETR Inference & Evaluation Started
+===================================
+--- SwinUNETR 推論を開始します... (Device: cuda) ---
+
+==============================
+SwinUNETR 平均 Dice Score: 0.3681
+==============================
+===================================
+ Pipeline Finished Successfully
+===================================

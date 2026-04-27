@@ -16,3 +16,4 @@ conda activate m-thesis
 
 # 3. 実行
 python /home/s2610100/m-thesis/src/inference_spleen.py
+python /home/s2610100/m-thesis/src/inference_spleen_swin.py
