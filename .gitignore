@@ -5,7 +5,7 @@ data/
 # 学習済みモデルを除外
 outputs/*.pth
 *.pth
-
+outputs/vis/
 # その他重いファイル
 *.zip
 *.tar.gz
